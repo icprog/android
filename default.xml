@@ -516,10 +516,6 @@
   <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
   <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-7.1" />
 
-  <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" revision="cm-14.1" />
-  <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" revision="cm-14.1" />
-  <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" revision="cm-14.1" />
-
   <include name="snippets/cm.xml" />
 
 </manifest>
